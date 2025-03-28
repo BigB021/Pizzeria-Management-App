@@ -12,7 +12,7 @@ public class LoginPanel extends JPanel {
     protected static String USERNAME;
     protected static String PASSWORD;
 
-    private PizzeriaApp pizzeriaApp; // Add this field
+    private PizzeriaApp pizzeriaApp; 
 
     public LoginPanel(PizzeriaApp pizzeriaApp) {
         // Set layout to GridBagLayout
